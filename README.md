@@ -1,6 +1,6 @@
-# PerpDet - A perpetual motion machine detector
+# Perpetual Motion Detection System (PMDS)
 
-PerpDet is a device that can determine whether a machine in front of the device is a perpetual motion machine. This is a gag invention, as by the second law of Thermodynamics, perpetual motion machines cannot exist.
+PMDS is a device that can determine whether a machine in front of the device is a perpetual motion machine. This is a gag invention, as by the second law of Thermodynamics, perpetual motion machines cannot exist.
 
 # Why?
 
@@ -12,10 +12,10 @@ As far as I can tell, no one has ever tried to create such a device, probably be
 
 ## Circuit Schematic
 <p align="center">
-   <img src="https://github.com/liben002/perpetual-motion-machine-detector/blob/master/resources/schematics/schematic_v1.0.png" alt="schematic"/>
+   <img src="https://github.com/liben002/perpetual-motion-detection-system/blob/master/resources/schematics/schematic_v1.0.png" alt="schematic"/>
 </p>
 
 ## PCB Layout
 <p align="center">
-   <img src="https://github.com/liben002/perpetual-motion-machine-detector/blob/master/resources/pcb_layouts/pcb_layout_v1.0.png" alt="PCB layout"/>
+   <img src="https://github.com/liben002/perpetual-motion-detection-system/blob/master/resources/pcb_layouts/pcb_layout_v1.0.png" alt="PCB layout"/>
 </p>
